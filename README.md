@@ -1,6 +1,4 @@
 - 👋 Hi, I’m DJ Choi.
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning cybersecurity at Code Fellows.
 - 📫 How to reach me DJChoi82@gmail.com
 
 <!---
